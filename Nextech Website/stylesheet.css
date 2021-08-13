@@ -1,0 +1,11 @@
+nav {
+    background-color: #ff9900;
+}
+
+nav > ul > li > a {
+    color: white;
+}
+
+nav > ul > li > a:visited {
+    color: white;
+}
